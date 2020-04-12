@@ -1,0 +1,4 @@
+#Sun Apr 12 13:29:01 BST 2020
+configuration*?=52D448BED0B779B9B34F097A13B6472B21C2E73F
+module-resource*?\:checkstyle-xpath-suppressions.xml=559AF39D4D680260A37CA82917328CE30CEFBDBF
+module-resource*?\:checkstyle-suppressions.xml=518CFDCD158ABFD5EF0B6E11CB8776669BADF9B2
