@@ -1,0 +1,17 @@
+
+[com.politics.controllers.CentroController#getCentroById(I)Lcom/politics/models/vo/CentroVo;®
+ùC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/CentroController.java? ?(("1*·
+1®
+ùC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/CentroController.javaA A(Ÿ
+÷
+®
+ùC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/CentroController.javaA A(0%
+%0com.politics.models.vo.CentroVo"Scom.politics.models.dao.CentroDao#getCentroById(I)Lcom/politics/models/vo/CentroVo;*%"#
+!com.politics.models.dao.CentroDao*
+"""‘
+®
+ùC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/CentroController.javaA A(1'
+%
+%0com.politics.models.vo.CentroVo:
+""B-"+
+)com.politics.controllers.CentroController

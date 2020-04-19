@@ -1,0 +1,17 @@
+
+^com.politics.controllers.PartidoController#getPartidoById(I)Lcom/politics/models/vo/PartidoVo;©
+žC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/PartidoController.java? ?(*"1*ê
+1©
+žC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/PartidoController.javaA A(ß
+Ü
+©
+žC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/PartidoController.javaA A(3&
+%0 com.politics.models.vo.PartidoVo"Vcom.politics.models.dao.PartidoDao#getPartidoById(I)Lcom/politics/models/vo/PartidoVo;*&"$
+"com.politics.models.dao.PartidoDao*
+"""Ö
+©
+žC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/PartidoController.javaA A(4(
+&
+%0 com.politics.models.vo.PartidoVo:
+""B.",
+*com.politics.controllers.PartidoController

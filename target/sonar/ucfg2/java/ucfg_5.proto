@@ -1,0 +1,53 @@
+
+lcom.politics.controllers.LoginController#checkLogin(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Boolean;§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.javaS S($"3*º
+2§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.javaX X(Í
+Ê
+§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.javaX X(#&
+%2 com.politics.models.vo.SessionVo"Pcom.politics.models.vo.SessionVo#getInstance()Lcom/politics/models/vo/SessionVo;*$""
+ com.politics.models.vo.SessionVo…‚
+§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.javaX X(4
+
+%3void"Jcom.politics.models.vo.SessionVo#setUser(Lcom/politics/models/vo/UserVo;)V*(
+&
+%2 com.politics.models.vo.SessionVo**
+(
+sessioncom.politics.models.vo.UserVo2(setUser(Lcom/politics/models/vo/UserVo;)"²
+§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.javaY Y(
+""*ý
+3§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.javaU U( ¦
+£
+§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.javaU U(=#
+%0com.politics.models.vo.UserVo"ocom.politics.models.dao.UserDao#checkLogin(Ljava/lang/String;Ljava/lang/String;)Lcom/politics/models/vo/UserVo;*#"!
+com.politics.models.dao.UserDao*
+
+nombrejava.lang.String*
+
+passwordjava.lang.String„
+
+§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.javaU U(>(
+sessioncom.politics.models.vo.UserVo"__id*%
+#
+%0com.politics.models.vo.UserVo•’
+§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.javaV V(	
+%1int"&com.politics.models.vo.UserVo#getId()I**
+(
+sessioncom.politics.models.vo.UserVo2getId()*
+2
+1*â
+1§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.java\ \("²
+§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.java\ \(
+"":
+nombrejava.lang.String:
+passwordjava.lang.StringB,"*
+(com.politics.controllers.LoginController

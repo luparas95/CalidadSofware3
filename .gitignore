@@ -1,5 +1,7 @@
 HELP.md
-target/
+
+# coment target to can upload reports files
+# target/
 !.mvn/wrapper/maven-wrapper.jar
 .mvn/**
 !**/src/main/**

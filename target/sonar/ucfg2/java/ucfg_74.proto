@@ -1,0 +1,15 @@
+
+Lcom.politics.views.validations.Validations#cadenaValida(Ljava/lang/String;)Z©
+žC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/views/validations/Validations.java (&"1*ì
+1©
+žC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/views/validations/Validations.java (ƒ€
+©
+žC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/views/validations/Validations.java (
+%0boolean"java.lang.String#isEmpty()Z*
+
+valorjava.lang.String2	isEmpty()"´
+©
+žC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/views/validations/Validations.java ( 
+"":
+valorjava.lang.StringB.",
+*com.politics.views.validations.Validations

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\constants\Constant.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\controllers\CentroController.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\controllers\LoginController.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\controllers\PartidoController.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\controllers\ResultadoController.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\exceptions\DuplicateRowException.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\exceptions\NotFoundDataException.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\exceptions\VotesOutOfRangeException.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\connection\ConnectionManager.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\dao\CentroDao.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\dao\PartidoDao.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\dao\ResultadoDao.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\dao\UserDao.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\vo\CentroVo.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\vo\PartidoVo.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\vo\ResultadoToPrintVo.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\vo\ResultadoVo.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\vo\SessionVo.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\vo\UserVo.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\Politics.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\CentroListView.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\LoadingView.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\LoginView.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\MenuCentroView.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\MenuPartidoView.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\MenuPrincipalView.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\NewCentroView.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\NewPartidoView.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\NewResultado.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\PartidoListView.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\ResultadoListView.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\UpdateCentroView.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\UpdatePartidoView.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\UpdateResultadoView.java">
+</file>
+<file name="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\validations\Validations.java">
+</file>
+</checkstyle>

@@ -1,0 +1,45 @@
+
+ccom.politics.controllers.ResultadoController#existeResultado(Ljava/util/List;II)Ljava/lang/Boolean;«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java (*"2*š
+2«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java (Þ
+Û
+«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java (
+	resultadojava.lang.Object"__id*
+""*
+5
+1*ê
+3«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java# #("¶
+«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java# #(
+""*Ý
+4«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java!V !(_¡ž
+«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java!G !(o	
+%1int"2com.politics.models.vo.ResultadoVo#getIdPartido()I*
+
+	resultadojava.lang.Object2getIdPartido()*
+2
+3*Û
+5«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java! !((Ÿœ
+«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java! !(7	
+%0int"1com.politics.models.vo.ResultadoVo#getIdCentro()I*
+
+	resultadojava.lang.Object2getIdCentro()*
+2
+4*ê
+1«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java) )("¶
+«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java) )(
+"":
+
+resultadosjava.util.List:
+"":
+""B0".
+,com.politics.controllers.ResultadoController

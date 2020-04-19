@@ -1,0 +1,17 @@
+
+Vcom.politics.controllers.LoginController#getUserById(I)Lcom/politics/models/vo/UserVo;§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.java- -($"1*Ò
+1§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.java/ /(Î
+Ë
+§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.java/ /(*#
+%0com.politics.models.vo.UserVo"Mcom.politics.models.dao.UserDao#getUserById(I)Lcom/politics/models/vo/UserVo;*#"!
+com.politics.models.dao.UserDao*
+"""Ñ
+§
+œC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/LoginController.java/ /(+%
+#
+%0com.politics.models.vo.UserVo:
+""B,"*
+(com.politics.controllers.LoginController

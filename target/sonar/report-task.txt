@@ -1,0 +1,7 @@
+organization=gherque
+projectKey=gherque_politics-fork
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.6674
+dashboardUrl=https://sonarcloud.io/dashboard?id=gherque_politics-fork
+ceTaskId=AXF0YDuVw8DamUSCnBmK
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXF0YDuVw8DamUSCnBmK

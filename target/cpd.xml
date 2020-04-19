@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <duplication lines="19" tokens="100">
+      <file column="102" endcolumn="87" endline="57" line="39"
+            path="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\CentroListView.java"/>
+      <file column="99" endcolumn="87" endline="57" line="39"
+            path="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\PartidoListView.java"/>
+      <file column="103" endcolumn="87" endline="57" line="39"
+            path="C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\ResultadoListView.java"/>
+      <codefragment><![CDATA[        final Vector cabeceras = new Vector(Arrays.asList(new String[] { "Id", "Nombre", "Electores" }));
+        JTable table = new JTable(tableData, cabeceras) {
+        
+            private static final long serialVersionUID = 1L;
+
+            @Override
+            public boolean isCellEditable(int row, int column) {                
+                    return false;               
+            }
+        
+        };
+        
+        table.addMouseListener(new MouseAdapter() {
+        
+            public void mouseClicked(MouseEvent e) {
+            
+                if (e.getClickCount() == 2 
+                        && (SessionVo.getInstance().getUser().getRole() == Constant.ROLE_ADMINISTRADOR 
+                            || SessionVo.getInstance().getUser().getRole() == Constant.ROLE_SECRETARIO_ELECTORAL)) {]]></codefragment>
+   </duplication>
+</pmd-cpd>

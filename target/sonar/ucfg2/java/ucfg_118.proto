@@ -1,0 +1,48 @@
+
+rcom.politics.controllers.ResultadoController#votosDisponibles(Ljava/util/List;Lcom/politics/models/vo/CentroVo;I)I«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java4 4('"6*š
+2«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java7 7(Þ
+Û
+«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java7 7(
+	resultadojava.lang.Object"__id*
+""*
+4
+1*Ò
+3«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java; ;( ™–
+«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java;$ ;(H	
+%2int".com.politics.models.vo.ResultadoVo#getVotos()I*
+
+	resultadojava.lang.Object2
+getVotos()*
+2*Ý
+4«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java9 9((¡ž
+«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java9 9(8	
+%1int"2com.politics.models.vo.ResultadoVo#getIdPartido()I*
+
+	resultadojava.lang.Object2getIdPartido()*
+2
+3*ã
+6«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java6 6(%ª§
+«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java6 6(4	
+%0int"/com.politics.models.vo.CentroVo#getElectores()I*+
+)
+centrocom.politics.models.vo.CentroVo2getElectores()*
+2*ê
+1«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.javaA A("¶
+«
+ C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.javaA A( 
+"":
+
+resultadosjava.util.List:)
+centrocom.politics.models.vo.CentroVo:
+""B0".
+,com.politics.controllers.ResultadoController
