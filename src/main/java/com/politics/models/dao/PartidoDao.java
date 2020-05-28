@@ -26,8 +26,10 @@ public class PartidoDao {
         ConnectionManager connectionManager = new ConnectionManager();
         try {
 
-            Statement stmt = connectionManager.getConnection().createStatement();
-            stmt.executeUpdate("INSERT INTO partido (nombre, siglas) VALUES ('" + partido.getNombre() + "', '" + partido.getSiglas() + "')");
+        	PreparedStatement stmt = connectionManager.getConnection().prepareStatement("INSERT INTO partido (nombre, siglas) VALUES ('?', '?')");
+            stmt.setString(1, partido.getNombre());
+            stmt.setString(2, partido.getSiglas());
+            stmt.executeUpdate();
             stmt.close();
 
         } catch(Exception e){
@@ -111,8 +113,11 @@ public class PartidoDao {
         ConnectionManager connectionManager = new ConnectionManager();
         try {
 
-            Statement stmt = connectionManager.getConnection().createStatement();
-            stmt.executeUpdate("UPDATE partido set nombre = '" + partido.getNombre() + "', siglas = '" + partido.getSiglas() + "' where id = " + partido.getId());
+        	PreparedStatement stmt = connectionManager.getConnection().prepareStatement("UPDATE partido set nombre = '?', siglas = '?' where id = ?");
+            stmt.setString(1, partido.getNombre());
+            stmt.setString(2, partido.getSiglas());
+            stmt.setInt(3, partido.getId());
+            stmt.executeUpdate();
             stmt.close();
 
         } catch(Exception e){

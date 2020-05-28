@@ -20,11 +20,11 @@
         <exec-maven-plugin>1.6.0</exec-maven-plugin>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <sonar.projectKey>gherque_politics-fork</sonar.projectKey>
-        <sonar.organization>gherque</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.login>3c70b750e04f27f58fdd9ed66a95f7d207b44ae4</sonar.login>
-    </properties>
+ 	 	<sonar.projectKey>luparas95_CalidadSofware3</sonar.projectKey>
+ 	 	<sonar.organization>luparas95</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  		<sonar.login>11f1bfe044ee4d9ac69757a4c255f3f621c2fb7a</sonar.login>
+	</properties>
     <build>
         <defaultGoal>clean compile package site:site exec:java</defaultGoal>
         <plugins>

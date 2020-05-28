@@ -50,7 +50,7 @@ public class NewCentroView {
                 
                 } else {
                 
-                    f.setVisible(false);
+                	f.setVisible(false);
                     LoadingView.mostrar();
                     CentroController.creaCentro(nombreField.getText(), Integer.parseInt(electoresField.getText()));
                     LoadingView.ocultar();

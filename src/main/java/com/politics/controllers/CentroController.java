@@ -70,7 +70,7 @@ public class CentroController {
     * Método que crea un nuevo objeto Centro y lo agrega al arreglo donde son almacenados
     * @author: Jose Luis Panadero, Gustavo Adolfo Hernández Quesada, Alvaro Francisco Hernáez Colque
     * @param nombre El nombre del centro a crear
-    * @param electores El número de electores del centro a crear
+    * @param electores El número de electores del centro a crear 
     */
     public static void creaCentro(String nombre, int electores) {
     

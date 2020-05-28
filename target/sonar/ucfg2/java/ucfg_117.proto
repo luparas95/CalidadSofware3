@@ -1,45 +1,57 @@
 
-ccom.politics.controllers.ResultadoController#existeResultado(Ljava/util/List;II)Ljava/lang/Boolean;´
-†C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java (*"2*ö
-2´
-†C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java (ﬁ
-€
-´
-†C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java (
+rcom.politics.controllers.ResultadoController#votosDisponibles(Ljava/util/List;Lcom/politics/models/vo/CentroVo;I)Iú
+ëD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/controllers/ResultadoController.java4 4('"6*Ù
+2ú
+ëD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/controllers/ResultadoController.java7 7(œ
+Ã
+ú
+ëD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/controllers/ResultadoController.java7 7(
 	resultadojava.lang.Object"__id*
+""ı
+Ú
+ú
+ëD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/controllers/ResultadoController.java7 7(
+	resultadojava.lang.Object"
+__arrayGet*
+
+
+resultadosjava.util.List*
 ""*
-5
-1*Í
-3´
-†C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java# #("∂
-´
-†C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java# #(
-""*›
-4´
-†C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java!V !(_°û
-´
-†C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java!G !(o	
+4
+1*¥
+3ú
+ëD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/controllers/ResultadoController.java; ;( äá
+ú
+ëD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/controllers/ResultadoController.java;$ ;(H	
+%2int".com.politics.models.vo.ResultadoVo#getVotos()I*
+
+	resultadojava.lang.Object2
+getVotos()*
+2*ø
+4ú
+ëD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/controllers/ResultadoController.java9 9((íè
+ú
+ëD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/controllers/ResultadoController.java9 9(8	
 %1int"2com.politics.models.vo.ResultadoVo#getIdPartido()I*
 
 	resultadojava.lang.Object2getIdPartido()*
 2
-3*€
-5´
-†C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java! !((üú
-´
-†C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java! !(7	
-%0int"1com.politics.models.vo.ResultadoVo#getIdCentro()I*
-
-	resultadojava.lang.Object2getIdCentro()*
-2
-4*Í
-1´
-†C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java) )("∂
-´
-†C:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/controllers/ResultadoController.java) )(
+3*≈
+6ú
+ëD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/controllers/ResultadoController.java6 6(%õò
+ú
+ëD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/controllers/ResultadoController.java6 6(4	
+%0int"/com.politics.models.vo.CentroVo#getElectores()I*+
+)
+centrocom.politics.models.vo.CentroVo2getElectores()*
+2*Ã
+1ú
+ëD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/controllers/ResultadoController.javaA A("ß
+ú
+ëD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/controllers/ResultadoController.javaA A( 
 "":
 
-resultadosjava.util.List:
-"":
+resultadosjava.util.List:)
+centrocom.politics.models.vo.CentroVo:
 ""B0".
 ,com.politics.controllers.ResultadoController

@@ -26,15 +26,18 @@ public class CentroDao {
         ConnectionManager connectionManager = new ConnectionManager();
         try {
 
-            Statement stmt = connectionManager.getConnection().createStatement();
-            stmt.executeUpdate("INSERT INTO centro (nombre, electores) VALUES ('" + centro.getNombre() + "', " + centro.getElectores() + ")");
+        	PreparedStatement stmt = connectionManager.getConnection().prepareStatement("INSERT INTO centro (nombre, electores) VALUES ('?', ?)");
+            stmt.setString(1, centro.getNombre());
+            stmt.setInt(2, centro.getElectores());
+            stmt.executeUpdate();
             stmt.close();
-
+            
         } catch(Exception e){
 
             System.out.println("Exception: " + e.toString());
 
-        }
+        } 
+        	
         connectionManager.disconnect();
     
     }
@@ -111,8 +114,11 @@ public class CentroDao {
         ConnectionManager connectionManager = new ConnectionManager();
         try {
 
-            Statement stmt = connectionManager.getConnection().createStatement();
-            stmt.executeUpdate("UPDATE centro set nombre = '" + centro.getNombre() + "', electores = " + centro.getElectores() + " where id = " + centro.getId());
+        	PreparedStatement stmt = connectionManager.getConnection().prepareStatement("UPDATE centro set nombre = '?', electores = ? where id = ?");
+            stmt.setString(1, centro.getNombre());
+            stmt.setInt(2, centro.getElectores());
+            stmt.setInt(3, centro.getId());
+            stmt.executeUpdate();
             stmt.close();
 
         } catch(Exception e){

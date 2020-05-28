@@ -29,7 +29,6 @@ com\politics\exceptions\DuplicateRowException.class
 com\politics\views\UpdatePartidoView$1.class
 com\politics\views\ResultadoListView$1.class
 com\politics\views\MenuPartidoView$3.class
-com\politics\exceptions\NotFoundDataException.class
 com\politics\views\UpdateResultadoView.class
 com\politics\views\NewPartidoView$2.class
 com\politics\views\LoginView.class

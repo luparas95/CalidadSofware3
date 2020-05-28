@@ -1,35 +1,34 @@
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\MenuPrincipalView.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\controllers\ResultadoController.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\LoginView.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\MenuPartidoView.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\ResultadoListView.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\dao\CentroDao.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\Politics.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\UpdateCentroView.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\NewCentroView.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\vo\ResultadoVo.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\LoadingView.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\NewResultado.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\dao\PartidoDao.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\vo\SessionVo.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\vo\CentroVo.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\constants\Constant.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\vo\ResultadoToPrintVo.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\controllers\CentroController.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\dao\UserDao.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\CentroListView.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\NewPartidoView.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\PartidoListView.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\validations\Validations.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\exceptions\DuplicateRowException.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\connection\ConnectionManager.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\exceptions\NotFoundDataException.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\controllers\LoginController.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\UpdateResultadoView.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\exceptions\VotesOutOfRangeException.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\UpdatePartidoView.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\vo\PartidoVo.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\vo\UserVo.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\models\dao\ResultadoDao.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\controllers\PartidoController.java
-C:\Users\gahde\Dropbox\Personal\VIU\3. Tercero\Segundo cuatrimestre\Calidad de Software\Politics\src\main\java\com\politics\views\MenuCentroView.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\ResultadoListView.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\PartidoListView.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\models\dao\CentroDao.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\exceptions\DuplicateRowException.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\constants\Constant.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\MenuCentroView.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\models\connection\ConnectionManager.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\MenuPrincipalView.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\validations\Validations.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\models\vo\PartidoVo.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\models\dao\UserDao.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\models\vo\CentroVo.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\NewResultado.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\MenuPartidoView.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\models\dao\PartidoDao.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\models\vo\ResultadoToPrintVo.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\UpdatePartidoView.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\models\dao\ResultadoDao.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\models\vo\UserVo.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\UpdateCentroView.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\controllers\PartidoController.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\controllers\CentroController.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\exceptions\VotesOutOfRangeException.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\Politics.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\UpdateResultadoView.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\controllers\ResultadoController.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\models\vo\ResultadoVo.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\controllers\LoginController.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\LoginView.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\NewPartidoView.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\CentroListView.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\models\vo\SessionVo.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\LoadingView.java
+D:\VIU\CURSO 19-20\42. Calidad de Software\Actividades\Practica 3\CalidadSofware3\src\main\java\com\politics\views\NewCentroView.java

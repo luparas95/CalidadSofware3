@@ -1,16 +1,9 @@
 
-=com.politics.models.vo.CentroVo#getNombre()Ljava/lang/String;û
-ìC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/models/vo/CentroVo.java- -("1*ÿ
-1û
-ìC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/models/vo/CentroVo.java/ /(Û
-
-û
-ìC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/models/vo/CentroVo.java/ /(
-%0java.lang.String"__id*/*-!
-com.politics.models.vo.CentroVo"
-nombre"ª
-û
-ìC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/models/vo/CentroVo.java/ /(
-
-%0java.lang.StringB#!
+/com.politics.models.vo.CentroVo#getElectores()Iè
+ÑD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/models/vo/CentroVo.java8 8("1*≤
+1è
+ÑD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/models/vo/CentroVo.java: :("ö
+è
+ÑD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/models/vo/CentroVo.java: :(
+""B#!
 com.politics.models.vo.CentroVo

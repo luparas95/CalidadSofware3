@@ -1,16 +1,17 @@
 
-;com.politics.models.vo.UserVo#getNombre()Ljava/lang/String;ú
-ëC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/models/vo/UserVo.java0 0("1*–
-1ú
-ëC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/models/vo/UserVo.java2 2(Ô
-Ï
-ú
-ëC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/models/vo/UserVo.java2 2(
-%0java.lang.String"__id*-*+
-com.politics.models.vo.UserVo"
-nombre"π
-ú
-ëC:/Users/gahde/Dropbox/Personal/VIU/3. Tercero/Segundo cuatrimestre/Calidad de Software/Politics/src/main/java/com/politics/models/vo/UserVo.java2 2(
+=com.politics.models.vo.UserVo#getPassword()Ljava/lang/String;ç
+ÇD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/models/vo/UserVo.java; ;("1*•
+1ç
+ÇD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/models/vo/UserVo.java= =(‚
+ﬂ
+ç
+ÇD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/models/vo/UserVo.java= =(
+%0java.lang.String"__id*/*-
+com.politics.models.vo.UserVo"
+
+password"™
+ç
+ÇD:/VIU/CURSO 19-20/42. Calidad de Software/Actividades/Practica 3/CalidadSofware3/src/main/java/com/politics/models/vo/UserVo.java= =(
 
 %0java.lang.StringB!
 com.politics.models.vo.UserVo

@@ -27,8 +27,11 @@ public class ResultadoDao {
         ConnectionManager connectionManager = new ConnectionManager();
         try {
 
-            Statement stmt = connectionManager.getConnection().createStatement();
-            stmt.executeUpdate("INSERT INTO resultado (idCentro, idPartido, votos) VALUES (" + resultado.getIdCentro() + ", " + resultado.getIdPartido() + ", " + resultado.getVotos() + ")");
+            PreparedStatement stmt = connectionManager.getConnection().prepareStatement("INSERT INTO resultado (idCentro, idPartido, votos) VALUES (?, ?, ?)");
+            stmt.setInt(1, resultado.getIdCentro());
+            stmt.setInt(2, resultado.getIdPartido());
+            stmt.setInt(3, resultado.getVotos());
+            stmt.executeUpdate();
             stmt.close();
 
         } catch(Exception e){
@@ -148,8 +151,11 @@ public class ResultadoDao {
         ConnectionManager connectionManager = new ConnectionManager();
         try {
 
-            Statement stmt = connectionManager.getConnection().createStatement();
-            stmt.executeUpdate("UPDATE resultado set votos = " + resultado.getVotos() + " where idCentro = " + resultado.getIdCentro()+ " and idPartido = " + resultado.getIdPartido());
+        	PreparedStatement stmt = connectionManager.getConnection().prepareStatement("UPDATE resultado set votos = ? where idCentro = ? and idPartido = ?");
+            stmt.setInt(1, resultado.getVotos());
+            stmt.setInt(2, resultado.getIdCentro());
+            stmt.setInt(3, resultado.getIdPartido());
+            stmt.executeUpdate();
             stmt.close();
 
         } catch(Exception e){
